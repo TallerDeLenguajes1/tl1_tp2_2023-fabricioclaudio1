@@ -1,0 +1,14 @@
+2,f) ¿Puede ver el archivo?
+
+Si, puedo ver el archivo creado en la rama "Opcion_2", porque forma parte 
+del directorio de trabajo a pasar de no estar en la rama prinsipal
+
+¿Qué diferencias nota?
+
+Al agregar "respuestas.txt" y hacer el commit correspondiente, noto 
+que el control de versiones se abre en dos ramas diferentes 
+
+En el Branch main se va a combine ambos repositorios, al ver 
+los cambios, ¿Qué nota?
+
+Noto que se combinaron ambas ramas
